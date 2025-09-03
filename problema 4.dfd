@@ -1,0 +1,60 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+103
+'si un articulo cuesta $80 y su precio se aumenta en 
+un 25%, ¿cuál será el nuevo precio del articulo?'
+6
+3
+1
+a
+2
+80
+1
+b
+2
+25
+6
+numero
+1
+0
+6
+1
+6
+numero
+10
+a *(b/100)
+4
+1
+89
+'El aumento del articulo es 20 ahora vamos a ver cual seria el nuevo precio del producto'
+6
+3
+7
+precio 
+2
+80
+7
+aumento
+2
+20
+1
+x
+1
+0
+6
+1
+1
+x
+14
+aumento+precio
+4
+1
+36
+'el precio nuevo del articulo es ',x
+1
