@@ -1,0 +1,33 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+123
+'Hola, soy un granjero, en este momentento tengo muchas semillas de arboles de manzanas, ¿cuantas semillas quieres platar?'
+4
+1
+70
+'Oh, casi se me olvida, recuerda que por cada arbol salen 18 manzanas'
+5
+1
+1
+a
+6
+2
+1
+b
+2
+18
+1
+c
+3
+a*b
+4
+1
+102
+'veo que te gustan las manzanas porque ahora tienes',c, 'manzanas, felicidades, espero me des un poco'
+1
