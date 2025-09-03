@@ -1,0 +1,39 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+110
+'Si un pastel se divide en 8 partes iguales y ya se han comido 3/8 partes, ¿Que fraccion de pastel aun queda?'
+6
+3
+1
+a
+1
+8
+1
+b
+1
+3
+1
+c
+1
+0
+4
+1
+89
+'Para obtener el resultado debemos restar el total del pastel con lo que se ha consumido'
+6
+1
+1
+c
+3
+a-b
+4
+1
+46
+'La fraccion que queda de pastel es ', c,'/',a
+1
